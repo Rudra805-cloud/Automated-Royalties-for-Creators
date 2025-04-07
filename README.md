@@ -64,4 +64,4 @@ This project serves as a bridge between the creative economy and decentralized f
 - Voting mechanisms for platform improvements
 - Community forums for creators to connect and collaborate
 - Dispute resolution processes
-- Educational resources for maximizing contract benefits
+- Educational resources for maximizing contract benefit
